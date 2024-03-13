@@ -1,6 +1,18 @@
-body {
+nav, footer {
 
-background-color:black;
+background-color:#2b2b2b;
 
 }
+
+body {
+
+    background-color: #000000;
+}
+
+p {
+
+    color:darkgrey;
+ 
+}
+
 
