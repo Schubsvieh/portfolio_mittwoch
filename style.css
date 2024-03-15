@@ -1,11 +1,21 @@
+body {
 
+    background-color: black;
+}
 
 
 
 #footer {
 
-    background-color: white;
+    background-color: #323232;
+    height: 10%;
 }
+
+.navi {
+
+    background-color: #323232;
+}
+
 
 
 .text2 {
@@ -29,3 +39,7 @@
 
 }
 
+.card1 {
+
+    background-color: white;
+}
