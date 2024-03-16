@@ -1,26 +1,48 @@
 body {
 
-    background-color: black;
+    background-color: #101010;
 }
+
+
 
 
 #container_allgemein {
 
-   min-height: 500px;
-    background-color: #2f2f2f;
+    width: 90%;
+    background-color: #1a1a1a;
 }
 
-#container_new {
+.container_new {
 
-    width: 90%;
+    width: 60%;
+     background-color: rgb(97, 97, 97);
+     margin: 0 auto;
+ }
+
+
+ .container_head {
+
+    width: 100%;
      background-color: black;
      margin: 0 auto;
  }
 
+
+ .container_head2 {
+
+    width: 100%;
+     background-color: #0c0c0c;
+     margin: 0 auto;
+ }
+
+
+
+
+
+
  #container_cards {
 
-    width: 70%;
-     background-color: black;
+    width: 90%;
      margin: 0 auto;
  }
  
@@ -28,29 +50,75 @@ body {
 
 #footer {
 
-    background-color: #323232;
-    height: 10%;
+    background-color: #131313;
+    color: #aaaaaa;
+    height: 6%;
+    width: 100%;
+    
 }
 
-.navi {
 
-    background-color: #323232;
-}
+ul li {
+    display:inline;
+    font-family: "Raleway", sans-serif;
+    color:darkgray;
+    font-size: 14px;
+    text-align: justify;
+   
+    
+    }
 
 
 
 .text2 {
 
-    font-family: "Noto Sans Symbols", sans-serif;
+    font-family: "Raleway", sans-serif;
     color:darkgray;
     padding-top: 2em;
-    font-size: 97%;
+    font-size: 14px;
+    line-height: 2.2em;
+    text-align: justify;
+    letter-spacing: 0.1em;
 }
+
+
+
+
+.cinzel {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+
+
+
+
 
 
 .bild10 {
 
     width: 95%;
 }
+
+
+.staatliches-regular2 {
+    font-family: "Staatliches", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#aaaaaa;
+  }
+  
+  .staatliches-regular {
+    font-family: "Staatliches", sans-serif;
+    font-style: normal;
+    color:#aaaaaa;
+  }
+  
+
+
+
+
 
 
